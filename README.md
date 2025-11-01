@@ -1,2 +1,1 @@
-# BaseDiscordBot
-A base discord bot so people can make their own bot with this repository.
+A base discord bot so people can make their own bot with this repository. If you need help you can ask me in Discord!
